@@ -45,7 +45,7 @@ Tenho interesse em transformar dados em informações úteis para apoiar decisõ
 
 ### 📈 Power BI — Dashboard de Vendas
 
-Meu primeiro projeto desenvolvido em **Power BI**, realizado como parte dos meus estudos em Data Science Academy.
+Meu primeiro projeto desenvolvido em **Power BI**, realizado como parte dos meus estudos em Análise de dados pela Data Science Academy.
 
 O dashboard apresenta indicadores e análises relacionadas a vendas, incluindo:
 
@@ -57,7 +57,7 @@ O dashboard apresenta indicadores e análises relacionadas a vendas, incluindo:
 * Distribuição geográfica
 * Segmentação por país, segmento e ano
 
-🔗 *Projeto disponível neste perfil em breve.*
+🔗 [*Clique aqui para analisar o projeto.*](https://github.com/IsabelaNeves1/projeto-powerbi-vendas)
 
 ---
 
